@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab9_10"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab9_10">
+				<Option output="/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/lab9_10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab9_10"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab9_10/fast">
+				<Option output="/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/lab9_10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab9_10/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/OOP/lab9-10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/Exception.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/Monede.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/Produse.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/RepositoryGeneric.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/ServiceTonomat.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/ServiceUtilizator.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/Tonomat.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/UI.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/Utilizator.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/Validation.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Headers/teste.h">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/Monede.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/Produse.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/ServiceTonomat.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/ServiceUtilizator.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/Tonomat.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/UI.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/Utilizator.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/Sources/teste.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/main.cpp">
+			<Option target="lab9_10"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/OOP/lab9-10/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

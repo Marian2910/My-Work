@@ -1,0 +1,144 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Mesaj.h
+istream
+-
+ostream
+-
+iostream
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Prietenie.h
+Utilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Utilizator.h
+iostream
+-
+string
+-
+ostream
+-
+istream
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Utilizator.h
+Prietenie.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Prietenie.h
+iostream
+-
+ostream
+-
+istream
+-
+../Repository/TADArray.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADArray.h
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryMesaj.h
+TADArray.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADArray.h
+../Domain/Mesaj.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Mesaj.h
+iostream
+-
+fstream
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryPrietenie.h
+TADArray.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADArray.h
+../Domain/Prietenie.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Prietenie.h
+iostream
+-
+fstream
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryUtilizator.h
+TADMultime.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADMultime.h
+../Domain/Utilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Utilizator.h
+iostream
+-
+vector
+-
+fstream
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADArray.h
+iostream
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADMultime.h
+vector
+-
+iostream
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Retea/Retea.cpp
+Retea.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Retea/Retea.h
+iostream
+-
+sstream
+-
+string
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Retea/Retea.h
+../Repository/TADArray.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADArray.h
+../Domain/Utilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Utilizator.h
+../Service/ServiceUtilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceUtilizator.h
+../Service/ServicePrietenie.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServicePrietenie.h
+../Service/ServiceMesaj.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceMesaj.h
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceMesaj.h
+../Repository/RepositoryMesaj.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryMesaj.h
+../Domain/Mesaj.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Mesaj.h
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServicePrietenie.h
+../Repository/RepositoryPrietenie.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryPrietenie.h
+../Domain/Prietenie.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Prietenie.h
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceUtilizator.h
+../Domain/Utilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Utilizator.h
+../Repository/RepositoryUtilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryUtilizator.h
+vector
+-
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Tests/Tests.h
+
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/main.cpp
+Repository/RepositoryUtilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryUtilizator.h
+Repository/RepositoryMesaj.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryMesaj.h
+Repository/RepositoryPrietenie.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryPrietenie.h
+Service/ServiceUtilizator.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceUtilizator.h
+Service/ServicePrietenie.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServicePrietenie.h
+Service/ServiceMesaj.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceMesaj.h
+Retea/Retea.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Retea/Retea.h
+Tests/Tests.h
+/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Tests/Tests.h
+

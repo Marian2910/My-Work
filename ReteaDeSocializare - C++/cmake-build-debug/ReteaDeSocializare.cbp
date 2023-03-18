@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ReteaDeSocializare"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReteaDeSocializare">
+				<Option output="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/cmake-build-debug/ReteaDeSocializare" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReteaDeSocializare"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReteaDeSocializare/fast">
+				<Option output="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/cmake-build-debug/ReteaDeSocializare" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReteaDeSocializare/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marianmutu/Documents/Structuri\ de\ date/ReteaDeSocializare/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Mesaj.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Mesaj.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Prietenie.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Prietenie.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Utilizator.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Domain/Utilizator.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryMesaj.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryMesaj.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryPrietenie.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryPrietenie.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryUtilizator.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/RepositoryUtilizator.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADArray.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Repository/TADMultime.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Retea/Retea.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Retea/Retea.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceMesaj.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceMesaj.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServicePrietenie.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServicePrietenie.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceUtilizator.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Service/ServiceUtilizator.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Tests/Tests.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/Tests/Tests.h">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/main.cpp">
+			<Option target="ReteaDeSocializare"/>
+		</Unit>
+		<Unit filename="/Users/marianmutu/Documents/Structuri de date/ReteaDeSocializare/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,54 @@
+;8. Sa se citeasca un sir de caractere si un caracter sa se afiseze daca apare acel caracter in sir.
+;Exemplu:
+;S: "ana are 3 mere!"
+;s: "a"
+;rezultat: "DA"
+
+
+assume cs:code, ds:data
+data segment
+s db 50, ?, 50 dup (?)
+data ends
+code segment
+start:
+    mov ax, data
+    mov ds, ax
+    
+    mov dx, offset s
+    mov ah, 0Ah
+    int 21h
+    
+    mov ah, 01h
+    int 21h
+    
+    mov cl, byte ptr s[1]
+    mov ch, 0
+    mov dx, 0
+    mov si, 2
+    cauta:
+        cmp byte ptr s[si], al
+        je afirmativ
+        jne negativ
+    afirmativ:
+        mov dx, 'DA'
+    negativ:
+        inc si
+    loop cauta
+    
+    cmp dx, 'DA'
+        je mesaj1
+        jne mesaj2
+    
+    mesaj1:
+        mov ah, 02h
+        int s1h
+        jmp next
+    mesaj2:
+        mov dx, 'NU'
+        int 21h
+    next:
+    
+    mov ax, 4c00h
+    int 21h
+    code ends
+    end start
