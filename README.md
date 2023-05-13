@@ -1,7 +1,7 @@
 # My-projects
 In this repository, you will find 5 projects that I have worked on.
 
-The first project is a Cinema management system developed in Python during my first year of college. It is a simplistic console-based application with basic features.
+The first project is a Cinema management system developed in Python during my first year of university. It is a simplistic console-based application with basic features.
 
 The second project is a candy vending machine developed in C++. The vending machine can give change and dispense the selected candy.
 
