@@ -2,6 +2,7 @@
 In this repository, you will find 6 projects that I have worked on.
 
 The first project is the most recent one developed last summer during the Endava Summer Apprentice program. It's a ticket management app for various events, featuring a layered architecture implemented with the Model-View-Controller (MVC) pattern. The backend is composed of two parts: Java with SpringBoot and C# with .Net. The app utilizes a relational database through the data access layer. On the frontend, it is primarily built using JavaScript. Notably, the application includes a searching feature on the frontend for events. Additionally, it follows a CRUD (Create, Read, Update, Delete) functionality for event registration (orders).
+(additionaly here is the link to the repositories for java and .net backend code for the ticket management application: https://github.com/Marian2910/en-summer-apprentice-java; https://github.com/Marian2910/en-summer-apprentice-net)
 
 The second project is a Cinema management system developed in Python during my first year of university. It is a simplistic console-based application with basic features.
 
